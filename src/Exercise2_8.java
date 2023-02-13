@@ -2,7 +2,7 @@
 public class Exercise2_8{
 
         //byte b = 256;
-        char c = ' ';
+        //char c = '';
         //char answer = 'no';
         //float f = 3.14;
         double d = 1.4e3f;
